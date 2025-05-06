@@ -8,6 +8,7 @@ This project is built using **MCP (Model Context Protocol)** and provides a serv
 Ensure you have **Python 3.7+** installed. Then, install the required dependencies.
 ```bash
 pip install uv
+uv init leave-management
 ```
 
 ### 3. **Install the Server in Claude Desktop**
