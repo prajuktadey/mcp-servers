@@ -10,9 +10,6 @@ Ensure you have **Python 3.7+** installed. Then, install the required dependenci
 pip install uv
 ```
 
-### **Running the Server**
-Once everything is set up, follow these steps to run the MCP server in Claude Desktop:
-
 ### 3. **Install the Server in Claude Desktop**
 Run the following command in your project directory:
 ```bash
